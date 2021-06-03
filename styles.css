@@ -13,6 +13,14 @@
     height: 25px;
     width: 25px;
     position: relative;
-    left: 1300px;
-    bottom: 150px;
+    left: 75%;
+   
     }
+.links{
+    display: flex;
+align-items: center;
+padding: 6px;
+border-style: dotted;
+width: auto;
+height: 25px;
+}
